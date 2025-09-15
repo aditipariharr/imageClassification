@@ -58,7 +58,7 @@ We train, evaluate, and compare different models including a custom CNN, ResNet5
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/cifar10-image-classification.git
+   git clone https://github.com/aditipariharr/cifar10-image-classification.git
    cd cifar10-image-classification
    ```
 
